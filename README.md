@@ -6,7 +6,7 @@ git clone https://github.com/nisha-sadanandan/Ecommerce-BE.git
 
 Go to the project directory
 
-cd Ecommerce-BE
+cd ecommerce-BE
 
 Install dependencies
 
