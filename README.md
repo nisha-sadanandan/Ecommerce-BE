@@ -1,10 +1,22 @@
-Backend Setup
-Clone the Repository
+Ecommerce Application
 
-First, clone the backend repository and navigate into the backend directory:
+Clone the project
+
 git clone https://github.com/nisha-sadanandan/Ecommerce-BE.git
+
+Go to the project directory
+
 cd Ecommerce-BE
-Start the Backend Server
-Run the following command to start the backend server:node index.js
-The backend will run on http://localhost:5000.
+
+Install dependencies
+
+npm install
+
+Start the server
+
+node index.js
+
 Once both the frontend and backend servers are running, open a browser and navigate to http://localhost:3000 to access the application.
+
+
+
